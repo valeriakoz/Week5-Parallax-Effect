@@ -13,7 +13,7 @@ body {
 
 .intro-image {
     background-attachment: fixed;
-    background-image: url('../img/image1.jpg');
+    background-image: url('img/image1.jpg');
     background-size: cover;
     background-position: center;
     height: 700px;
@@ -57,7 +57,7 @@ body {
 
 .quality-image {
     background-attachment: fixed;
-    background-image: url('../img/image2.jpg');
+    background-image: url('img/image2.jpg');
     background-size: cover;
     background-position: center;
     height: 700px;
@@ -105,7 +105,7 @@ body {
 
 .origin-image {
     background-attachment: fixed;
-    background-image: url('../img/image3.jpg');
+    background-image: url('img/image3.jpg');
     background-size: cover;
     background-position: center;
     height: 700px;
